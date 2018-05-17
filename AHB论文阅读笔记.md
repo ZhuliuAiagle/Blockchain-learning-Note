@@ -1,11 +1,7 @@
 # 阅读笔记：Hyperledger Blockchain Fabric架构
----
-## 一些不是很了解的生词
-replication：副本
-invoke：
-emulate：与…竞争, 努力赶上
-asset：资产
----
+
+原文地址：https://pdfs.semanticscholar.org/f852/c5f3fe649f8a17ded391df0796677a59927f.pdf
+
 ## 关键概念
 
 ### 关于peer的介绍
